@@ -23,3 +23,8 @@
 -must start with international code "+27"
 - must have at least 12 characters 
 
+----
+### Password Validation
+- it must have a special character
+- it must at least be a length of 8
+- it must have one Capital letter
