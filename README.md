@@ -19,6 +19,7 @@
 
 - ---
 
-## Password Validation 
+## Cell Phone Number Validation
 -must start with international code "+27"
 - must have at least 12 characters 
+
