@@ -28,3 +28,4 @@
 - it must have a special character
 - it must at least be a length of 8
 - it must have one Capital letter
+- it must contain a underscorce
